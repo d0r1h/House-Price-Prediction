@@ -10,6 +10,7 @@ Predicting House Price using Regression Techniques
 | Notebook | Colab |
 | ------ | ------ |
 | House Price | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d0r1h/House-Price-Prediction/blob/main/notebook/House%20Price%20Prediction.ipynb) |
+| Hyperparameters Tuning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d0r1h/House-Price-Prediction/blob/main/notebook/House%20Price%20Prediction.ipynb) |
 
 ### Insights 
 
@@ -33,10 +34,7 @@ Predicting House Price using Regression Techniques
 
 ### Requirements 
 
-1. 
-2.
-3.
-4.
-
-
-
+1.scikit-learn
+2.xgboost
+3.lightgbm
+4.optuna
